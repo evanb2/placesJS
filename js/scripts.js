@@ -17,7 +17,7 @@ $(document).ready(function() {
         $(".place").last().click(function() {
             $("#show-place").show();
             $("#show-place h2").text(newPlace.locations);
-            $(".locations").text(newPlace.locations);
+            $(".location").text(newPlace.locations);
             $(".date").text(newPlace.date);
             $(".notes").text(newPlace.notes);
         });

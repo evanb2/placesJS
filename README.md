@@ -1,15 +1,16 @@
-# Name:
-# Date:
+# Name: Evan Butler
+# Date: 
 
-Description:
+Description: Site for keeping track of the places you've been using JavaScript.
 
 # SetUp and Use
-In order to use this program you will need a browser...NOT IE!
 
 SetUp
-1.
+1. Open terminal/console and type: 'git clone https://github.com/evanb2/placesJS'
+2. Open placesJS folder and open places.html file in your web browser.
+3. Follow instructions on the site to add a place.
 
-# Copyright (c) 2015 (Name)
+# Copyright (c) 2015 (Evan Butler)
 
 # The MIT License (MIT)
 
